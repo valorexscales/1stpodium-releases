@@ -8,5 +8,6 @@
   ],
   "url": "https://github.com/valorexscales/1stpodium-releases/releases/download/app-v1.1.0/1stApp-Instalador-1.1.0.exe",
   "sha256": "7e4189647ff08f5131ddaa53b5233331c48406a8a63f3aeec888e087b0972ebd",
-  "size": 1188352
+  "size": 1188352,
+  "relay": "wss://1stpodium-share.1stpodium.workers.dev"
 }
