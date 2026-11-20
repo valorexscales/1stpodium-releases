@@ -1,12 +1,13 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "date": "20/11/2026",
   "notes": [
-    "Compartilhar tela agora conectado ao servidor oficial 1st Podium.",
-    "Imagem criptografada de ponta a ponta: só quem tem a chave consegue ver."
+    "Aviso automático: ao abrir, o 1st App avisa quando existe uma versão nova.",
+    "Selo NOVA no menu Atualizações e novidades já visíveis na aba.",
+    "Compartilhar tela conectado ao servidor oficial, com criptografia de ponta a ponta."
   ],
-  "url": "https://github.com/valorexscales/1stpodium-releases/releases/download/app-v1.1.1/1stApp-Instalador-1.1.1.exe",
-  "sha256": "31560dbb95d341608381b70fd88add69472ad565f1fa97a3c1dea67be8932ab8",
-  "size": 1188352,
+  "url": "https://github.com/valorexscales/1stpodium-releases/releases/download/app-v1.2.0/1stApp-Instalador-1.2.0.exe",
+  "sha256": "8eb0aaff43a8b38348c75c2a473d2336852a0da9f4c698a2509158eae646fae0",
+  "size": 1190400,
   "relay": "wss://1stpodium-share.1stpodium.workers.dev"
 }
